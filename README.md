@@ -1,2 +1,2 @@
-# Reposit-rio_no_GitHub
+# Repositorio_no_GitHub
 Reforçando o conhecimento no GitHub
