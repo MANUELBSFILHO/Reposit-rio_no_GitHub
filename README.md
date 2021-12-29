@@ -1,7 +1,7 @@
 # Repositorio_no_GitHub
 Reforçando o conhecimento no GitHub
 
-##Dicas:
+## Dicas:
 1 crie uma pasta para colocar os arquivos
 2 entre na pasta criada pelo CMD
 3 dentro da pasta digite rd .git /S/Q (se aparecer a mensagem "o sistema não pode encontrar") esta OK
